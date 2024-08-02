@@ -18,3 +18,8 @@ There are three types of # Constructor
 2.Constructor does not have return type because it is used to initialized value to the object.
 3. Constructor does not declared as final or static . It is only private ,Protected,private,default.
 ...........................................................................................................................................................................................
+# Inheritance in JAVA
+* Inheritance is the inheriting the properties of parent class into the child class.
+  example : Dog.java
+................Types of Inheritance.....................................................
+  1.  
